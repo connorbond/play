@@ -1,0 +1,29 @@
+{
+  "name": "connors-app",
+  "version": "0.0.1",
+  "description": "My Test App",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connorbond/play"
+  },
+  "keywords": [
+    "heroku",
+    "play",
+    "test",
+    "newb"
+  ],
+  "author": "Connor Bond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorbond/play/issues"
+  },
+  "homepage": "https://github.com/connorbond/play",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.0.0"
+  }
+}
