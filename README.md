@@ -1,4 +1,4 @@
-play
+My Playground
 ====
 
-The place where I play
+The place where I play with my Git toys.
